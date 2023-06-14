@@ -1,0 +1,2 @@
+Changes get reflected in the same object then such string are called “Mutable String”.
+Example: StringBuffer, StringBuilder
